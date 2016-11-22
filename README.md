@@ -6,7 +6,7 @@
 <br>![image](P1.jpg)</br>
 
 <br>![image](P2.jpg)</br>
-<h1>二.使用者各案圖+活動圖</h1>
+<h1>二.使用者個案圖+活動圖</h1>
 <br>![image](p4.jpg)</br>
 <h1>三.強韌分析圖</h1>
 <br>![image](p5.jpg)</br>
