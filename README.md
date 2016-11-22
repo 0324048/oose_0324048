@@ -7,13 +7,13 @@
 
 <br>![image](P2.jpg)</br>
 
-<br>![image](P3.jpg)</br>
+<br>![image](p3.jpg)</br>
 
-<br>![image](P4.jpg)</br>
+<br>![image](p4.jpg)</br>
 
-<br>![image](P5.jpg)</br>
+<br>![image](p5.jpg)</br>
 
-<br>![image](P6.jpg)</br>
+<br>![image](p6.jpg)</br>
 
 
 
