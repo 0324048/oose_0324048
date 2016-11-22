@@ -2,9 +2,18 @@
 <br>資管3B 0324016 黃俊諺</br>
 資管3B 0324032 陳雨晴
 
-<h1>文字敘述+活動圖</h1>
+<h1>一文字敘述+活動圖</h1>
 <br>![image](P1.jpg)</br>
 
 <br>![image](P2.jpg)</br>
+
+<br>![image](P3.jpg)</br>
+
+<br>![image](P4.jpg)</br>
+
+<br>![image](P5.jpg)</br>
+
+<br>![image](P6.jpg)</br>
+
 
 
