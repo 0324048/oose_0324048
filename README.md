@@ -14,3 +14,5 @@
 <br>![image](p3.jpg)</br>
 <h1>四.循序圖</h1>
 <br>![image](p7.jpg)<br>
+<h1>四.類別圖</h1>
+<br>![image](類別圖.jpg)<br>
